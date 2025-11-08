@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue information for publications
+# Add journal/conference venues here for automatic linking and color coding
 
-"PhysRev":
-  url: https://journals.aps.org/
+# Example:
+# "Blood":
+#   url: https://ashpublications.org/blood
+#   color: "#8B0000"
 
-"Vision":
-  color: "#009f36"
+# "Nucleic Acids Res":
+#   url: https://academic.oup.com/nar
+#   color: "#0066CC"

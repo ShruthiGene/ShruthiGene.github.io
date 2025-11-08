@@ -1,5 +1,5 @@
----
 # Publications imported from PubMed search for "shruthi subramanian" (fetched Nov 8, 2025)
+# Note: This file is for reference. The actual publications are displayed from _bibliography/papers.bib
 publications:
   - title: "MECOM is a master repressor of myeloid differentiation through dose control of CEBPA in acute myeloid leukemia"
     authors: "Pastoors D, Havermans M, Mulet-Lazaro R, Smeenk L, Ottema S, Erpelinck-Verschueren CAJ, van Herk S, Anthonissen M, Grob T, Subramanian S, Thoms JAI, Pimanda JE, Wouters BJ, Beverloo BH, Haferlach T, Haferlach C, Zuber J, Bindels E, Delwel R"
@@ -56,5 +56,3 @@ publications:
     doi: "10.1016/j.ymthe.2016.11.004"
     pmid: 28153089
     link: "https://pubmed.ncbi.nlm.nih.gov/28153089/"
-
----
