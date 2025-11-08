@@ -2,96 +2,137 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Shruthi Subramanian
+    - name: Photo
+      value: /assets/img/prof_pic.png
+    - name: Email
+      value: subramsh@ohsu.edu
+    - name: Current Position
+      value: Postdoctoral Research Fellow
+    - name: Institution
+      value: Oregon Health & Sciences University (OHSU)
+    - name: Department
+      value: Knight Cancer Institute, Division of Hematology and Oncology
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy (PhD) in Medicine
+      institution: University of New South Wales, Sydney, Australia
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Supervisor: Professor John Pimanda"
+        - "Computational mentorship: Dr. Jason Wong"
+        - "Thesis: Elucidating dynamic molecular landscapes across human hematopoietic stem cell differentiation"
+        - Focused on transcription factors regulating hematopoietic differentiation
+        - Transitioned from wet lab biologist to hybrid researcher with bioinformatics expertise
+        - Analyzed NGS data to decipher hematopoietic landscapes in normal homeostasis and leukemic conditions
+    
+    - title: Bachelor of Technology (B.Tech) in Bioengineering
+      institution: SASTRA University, Thanjavur, India
+      year: 2010 - 2014
       description:
-        - Description 1.
-        - Description 2.
+        - First Class with Distinction
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Research Fellow
+      institution: Oregon Health & Sciences University (OHSU), Portland, OR, USA
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Principal Investigator: Dr. Julia Maxson"
+        - "Division of Hematology and Oncology, Knight Cancer Institute"
+        - Investigating role of mutations in signaling and transcription factor proteins in leukemia development
+        - Studying resistance mechanisms in chronic neutrophilic leukemia and atypical chronic myeloid leukemia
+        - Combining expertise in transcriptional and epigenetic changes in cell-type specific disease contexts
+        - Developing as an independent researcher through grant writing and research advocacy
+        - Focus on molecular mechanisms of drug resistance to improve patient survival
+    
+    - title: PhD Candidate
+      institution: University of New South Wales, Sydney, Australia
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Supervisor: Professor John Pimanda"
+        - "Computational Mentor: Dr. Jason Wong"
+        - Elucidated dynamic molecular landscapes across human hematopoietic stem cell differentiation
+        - Focused on transcription factors regulating hematopoietic development
+        - Developed hybrid wet lab and bioinformatics research approach
+        - Performed NGS data analysis and interpretation
+        - Studied hematopoietic landscapes in normal homeostasis and leukemic conditions
+    
+    - title: Research Assistant
+      institution: Brigham and Women's Hospital, Boston, MA, USA
+      year: 2015 - 2016
       description:
+        - "Principal Investigator: Dr. Anna Krichevsky"
+        - Investigated role of microRNAs in brain tumor disease progression
+        - Gained experience in molecular biology and cancer research
+        - Developed interest in biological research with strong ethical values
+    
+    - title: Research Assistant
+      institution: Cancer Institute WIA, Chennai, India
+      year: 2014 - 2015
+      description:
+        - Investigated disease markers in oral carcinoma
+        - Gained experience in cancer biology research
+        - Developed foundation for pursuing doctoral studies
+    
+    - title: Undergraduate Researcher
+      institution: Massachusetts Institute of Technology, Cambridge, MA, USA
+      year: 2014
+      description:
+        - "Principal Investigator: Professor Shiladitya Sengupta"
+        - Identified resistance mechanisms in breast carcinoma
+        - Developed novel therapeutics for breast cancer
+        - Final semester research project
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "<strong>Subramanian S</strong>, Hock H, Weinberg OK, Corces MR, Sinha A, Galen PV, Regev A, Sankaran VG, Weiss MJ, Maxson JE. MECOM is a master repressor of an inflammatory erythroblast transcriptional program in GATA2-mutant myeloid malignancies. <em>Blood</em>. 2025 Jan 8:blood.2024026045. <a href='https://pubmed.ncbi.nlm.nih.gov/39778637/'>PMID: 39778637</a>"
+    - "Thoms JAI, Koch FC, Raei A, <strong>Subramanian S</strong>, Wong JWH, Vafaee F, Pimanda JE. BloodChIP Xtra: an expanded database of comparative genome-wide transcription factor binding and gene-expression profiles in healthy human stem/progenitor subsets and leukemic cells. <em>Nucleic Acids Res</em>. 2024 Jan 5;52(D1):D1131-D1137. <a href='https://pubmed.ncbi.nlm.nih.gov/37870453/'>PMID: 37870453</a>"
+    - "<strong>Subramanian S</strong>, Thoms JAI, Huang Y, Cornejo-Páramo P, Koch FC, Jacquelin S, Shen S, Song E, Joshi S, Brownlee C, Woll PS, Chacon-Fajardo D, Beck D, Curtis DJ, Yehson K, Antonenas V, O'Brien T, Trickett A, Powell JA, Lewis ID, Pitson SM, Gandhi MK, Lane SW, Vafaee F, Wong ES, Göttgens B, Alinejad-Rokny H, Wong JWH, Pimanda JE. Genome-wide transcription factor-binding maps reveal cell-specific changes in the regulatory architecture of human HSPCs. <em>Blood</em>. 2023 Oct 26;142(17):1448-1462. <a href='https://pubmed.ncbi.nlm.nih.gov/37595278/'>PMID: 37595278</a>"
+    - "Thoms JAI, Truong P, <strong>Subramanian S</strong>, Knezevic K, Harvey G, Huang Y, Seneviratne JA, Carter DR, Joshi S, Skhinas J, Chacon D, Shah A, de Jong I, Beck D, Göttgens B, Larsson J, Wong JWH, Zanini F, Pimanda JE. Disruption of a GATA2-TAL1-ERG regulatory circuit promotes erythroid transition in healthy and leukemic stem cells. <em>Blood</em>. 2021 Oct 21;138(16):1441-1455. <a href='https://pubmed.ncbi.nlm.nih.gov/34075404/'>PMID: 34075404</a>"
+    - "Yeola A, <strong>Subramanian S</strong>, Oliver RA, Lucas CA, Thoms JAI, Yan F, Olivier J, Chacon D, Tursky ML, Srivastava P, Potas JR, Hung T, Power C, Hardy P, Ma DD, Kilian KA, McCarroll J, Kavallaris M, Hesson LB, Beck D, Curtis DJ, Wong JWH, Hardeman EC, Walsh WR, Mobbs R, Chandrakanthan V, Pimanda JE. Induction of muscle-regenerative multipotent stem cells from human adipocytes by PDGF-AB and 5-azacytidine. <em>Sci Adv</em>. 2021 Jan 13;7(3):eabd1929. <a href='https://pubmed.ncbi.nlm.nih.gov/33523875/'>PMID: 33523875</a>"
+    - "Khanna A, Thoms JAI, Stringer BW, Chung SA, Ensbey KS, Jue TR, Jahan Z, <strong>Subramanian S</strong>, Anande G, Shen H, Unnikrishnan A, McDonald KL, Day BW, Pimanda JE. Constitutive CHK1 Expression Drives a pSTAT3-CIP2A Circuit that Promotes Glioblastoma Cell Survival and Growth. <em>Mol Cancer Res</em>. 2020 May;18(5):709-722. <a href='https://pubmed.ncbi.nlm.nih.gov/32079743/'>PMID: 32079743</a>"
+    - "El Fatimy R, <strong>Subramanian S</strong>, Uhlmann EJ, Krichevsky AM. Genome Editing Reveals Glioblastoma Addiction to MicroRNA-10b. <em>Mol Ther</em>. 2017 Feb 1;25(2):368-378. <a href='https://pubmed.ncbi.nlm.nih.gov/28153089/'>PMID: 28153089</a>"
+
+- title: Research Interests
+  type: list
+  contents:
+    - Leukemia biology and molecular mechanisms of drug resistance
+    - Hematopoietic stem cell differentiation and transcriptional regulation
+    - Role of mutations in signaling and transcription factor proteins in leukemia development
+    - Chronic neutrophilic leukemia and atypical chronic myeloid leukemia
+    - Transcriptional and epigenetic changes in cell-type specific disease contexts
+    - Normal and aberrant hematopoietic landscapes
+    - Improving patient survival through mechanistic understanding of leukemia
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Experimental Biology
+      items:
+        - Primary cell culture and hematopoietic stem cell biology
+        - Molecular biology and genetics techniques
+        - Flow cytometry and cell analysis
+        - Molecular cloning and gene expression analysis
+        - Disease marker identification
+    - title: Computational & Bioinformatics
+      items:
+        - Next-generation sequencing (NGS) data analysis
+        - RNA-seq, ChIP-seq, ATAC-seq analysis
+        - Transcriptomic and epigenomic analysis
+        - Bioinformatic analysis and data interpretation
+        - Computational analysis of hematopoietic differentiation
+        - Data visualization and integration
+
+- title: Career Goals
+  type: list
+  contents:
+    - Become an accomplished independent researcher in leukemia biology
+    - Understand molecular mechanisms of drug resistance in hematologic malignancies
+    - Contribute to improvements in patient survival
+    - Mentor the next generation of STEM scientists
+    - Develop unique research niche in heme research community
