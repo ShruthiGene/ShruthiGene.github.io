@@ -7,12 +7,16 @@ layout: default
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
+          {% assign cv_link = page.cv_pdf %}
+          {% if cv_link contains '://' %}
+            {% assign cv_href = cv_link %}
+          {% elsif cv_link | slice: 0, 1 == '/' %}
+            {% assign cv_href = cv_link | relative_url %}
+          {% else %}
+            {% assign cv_href = cv_link | prepend: 'assets/pdf/' | relative_url %}
+          {% endif %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
+            href="{{ cv_href }}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
@@ -58,12 +62,16 @@ layout: default
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
+          {% assign cv_link = page.cv_pdf %}
+          {% if cv_link contains '://' %}
+            {% assign cv_href = cv_link %}
+          {% elsif cv_link | slice: 0, 1 == '/' %}
+            {% assign cv_href = cv_link | relative_url %}
+          {% else %}
+            {% assign cv_href = cv_link | prepend: 'assets/pdf/' | relative_url %}
+          {% endif %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
+            href="{{ cv_href }}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
