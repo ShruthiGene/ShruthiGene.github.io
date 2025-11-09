@@ -1,0 +1,39 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. (Medicine)
+      institution: University of New South Wales (UNSW)
+      year: 2018–2022
+      description:
+        - Thesis: Identifying genome-wide gene regulatory networks in human hematopoietic stem and progenitor cells
+        - Supervisors:
+          - Prof. John Pimanda
+          - Dr. Jason Thoms
+        - Prince of Wales Clinical School and UNSW Tuition Fee Scholarships
+    - title: B.Tech, Bioengineering (First Class with Distinction)
+      institution: SASTRA University
+      year: 2010–2014
+      description:
+        - Semester abroad: Brigham & Women's Hospital, Harvard Medical School (Krichevsky Lab)
+        - Desh–Videsh International Research Scholarship
+
+- title: Selected Honors and Awards (Full list is in the CV)
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Collins Medical Trust Award – project support for CEBPA/3D genome work
+    - year: 2022
+      items:
+        - ASH Abstract Achievement Award – American Society of Hematology
+    - year: 2018–2022
+      items:
+        - Prince of Wales Clinical School Scholarship and UNSW Tuition Fee Scholarship
+    - year: 2014
+      items:
+        - Desh–Videsh International Research Scholarship – SASTRA University
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Scientific writing, mentoring, presenting at conferences
