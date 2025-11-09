@@ -44,35 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -443,15 +415,15 @@ ninja.data = [{
             },},{id: "news-genome-wide-transcription-factor-binding-maps-paper-published-in-blood-revealing-cell-specific-changes-in-the-regulatory-architecture-of-human-hspcs",
           title: 'Genome-wide transcription factor-binding maps paper published in Blood, revealing cell-specific changes in the...',
           description: "",
+          section: "News",},{id: "news-bloodchip-xtra-database-publication-an-expanded-database-of-comparative-genome-wide-transcription-factor-binding-and-gene-expression-profiles-in-healthy-human-stem-progenitor-subsets-and-leukemic-cells-published-in-nucleic-acids-research",
+          title: 'BloodChIP Xtra database publication: an expanded database of comparative genome-wide transcription factor binding...',
+          description: "",
           section: "News",},{id: "news-bloodchip-xtra-database-publication",
           title: 'BloodChIP Xtra Database Publication',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-new-publication-mecom-is-a-master-repressor-of-an-inflammatory-erythroblast-transcriptional-program-in-gata2-mutant-myeloid-malignancies-published-in-blood",
-          title: 'New publication: MECOM is a master repressor of an inflammatory erythroblast transcriptional program...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
