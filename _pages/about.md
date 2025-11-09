@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>At Comic Con 2025!</p>
 
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -40,8 +39,6 @@ I received my PhD in Medicine from the University of New South Wales, Sydney, Au
 
 My research experience spans multiple institutions, including postdoctoral work at OHSU, PhD research at UNSW, and previous research positions at [Brigham and Women’s Hospital](https://www.brighamandwomens.org/) (Boston), Cancer Institute WIA (Chennai), and the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) (Cambridge).
 
-
 ## career goal
 
 My career goal is to become an accomplished independent researcher in leukemia biology, focusing on molecular mechanisms of drug resistance in hematologic malignancies. I am committed to mentoring the next generation of STEM scientists and developing a unique research niche in the hematology research community.
-
