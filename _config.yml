@@ -5,7 +5,7 @@
 title: Shruthi Subramanian # the website title (if blank, full name will be used instead)
 # Last updated: 2025-11-09 - Triggering fresh rebuild
 first_name: Shruthi
-middle_name: 
+middle_name:
 last_name: Subramanian
 contact_note: >
   Postdoctoral Research Fellow at Oregon Health & Sciences University
@@ -620,7 +620,6 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
