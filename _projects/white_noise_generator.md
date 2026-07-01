@@ -12,7 +12,7 @@ The project is a practical interactive tool and a clean example of using browser
 
 **Links**
 
-- [Open the web app](https://shruthigene.github.io/white-noise-gen/)
+- [Open the web app](https://shruthigene.github.io/white-noise-gen/library-white-noise/)
 - [View the GitHub repository](https://github.com/ShruthiGene/white-noise-gen)
 
 **Built with**: web audio, HTML, CSS, and JavaScript.
