@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Interactive tools and side projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -459,6 +459,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/commander_ml/";
+            },},{id: "projects-white-noise-generator",
+          title: 'White Noise Generator',
+          description: "Browser-based white noise tool for focus, sleep, and ambient sound.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/white_noise_generator/";
             },},{
         id: 'social-email',
         title: 'email',
